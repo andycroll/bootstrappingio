@@ -1,0 +1,42 @@
+---
+layout: default
+title: 'Bootstrapping IO'
+desc: 'A weekly digest of useful product business links'
+---
+
+<div class="row">
+  <div class="col-sm-offset-1 col-sm-10 col-md-offset-2 col-md-8 text-center">
+    <h1 class="h3">One email a week with only the finest information on making your product a success. No VC-startup nonsense. No&nbsp;spam.</h1>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
+    <form action="http://goodscary.us1.list-manage.com/subscribe/post?u=8978f575757c4b55d2a353a62&amp;id=ceccab83f4" method="post" role="form" target="_blank" novalidate>
+      <h3 class="form-signin-heading">Your Email</h3>
+      <div class="form-group">
+        <input type="email" value="" name="EMAIL" class="form-control input-lg text-center" placeholder="andy@gmail.com" id="mce-EMAIL">
+      </div>
+      <button class="btn btn-lg btn-primary" type="submit">Sign Up</button>
+    </form>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6 text-center">
+    <p>&nbsp;</p>
+
+    <h5>Previously...</h5>
+    {% for post in site.posts %}
+      <p><small>{{ post.date | date_to_string }}</small><br />
+      <a href="{{ post.url }}">{{ post.title }}</a></p>
+    {% endfor %}
+
+    <p>&nbsp;</p>
+
+    <p>Found an awesome bootstrapping related link, article, tutorial, video or podcast? <a href="mailto:andy@goodscary.com">Drop me a line...</a></p>
+
+    <p>&nbsp;</p>
+  </div>
+
+</div>
