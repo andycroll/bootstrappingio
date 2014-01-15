@@ -6,7 +6,7 @@ date: 2014-01-13
 
 A short selection of links to kick off this inaugural edition of
 [Bootstrapping IO](http://bootstrapping.io). Every week we'll bring
-you a handful of links that are *actually relevent* to getting your product
+you a handful of links that are *actually relevant* to getting your product
 business off the ground.
 
 No VCs, no spectacular exits, no nonsense hype, just useful content for people
