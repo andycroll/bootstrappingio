@@ -46,7 +46,7 @@ Here are a few posters checking in with their mini-reviews of 2013.
 
 A beautiful summary of the year's films from this bootstrapped, film-based
 social network. No revenue figures, just inspirational design from a little
-company funded entirely by it's users.
+company funded entirely by its users.
 
 --
 
