@@ -3,9 +3,9 @@ title: Bootstrapping as Health Insurance
 layout: post
 ---
 
-Two stories of poor health kick off this week's [Bootstrapping IO](http://bootstrapping.io), but don't worry (SPOILER!) there's happy endings!
+Two stories of poor health kick off this week's [Bootstrapping IO](http://bootstrapping.io), but don't worry (SPOILER!) there are happy endings!
 
-Another couple of 'looking back' posts round out our short missive this week. After this no more 'year in review posts', I promise, it's getting to the end of January and we've all broken our resolutions already!
+Another couple of 'looking back' posts round out our missive this week. After this no more 'year in review posts', I promise, it's getting to the end of January and no doubt we've all broken our resolutions already!
 
 ### [Your Sideproject as Insurance Policy](http://alistapart.com/column/your-side-project-as-insurance-policy)
 
@@ -21,7 +21,7 @@ We can only wish Garrett well in his continued recovery.
 
 ### [How Risky is Freelancing](http://planscope.io/blog/risky-freelancing/)
 
-Brennan Dunn ([@brennandunn](http://twitter.com/brennandunn)), talks about something lots of us who have taken the plunge know. That freelancing is *less* risky than simply having a job. As many of us freelance while trying to get our more 'product-y' stuff off the ground, this is good reminder that employment isn't necessarily a more secure environment in which to bootstrap.
+Brennan Dunn ([@brennandunn](http://twitter.com/brennandunn)), talks about something lots of us who have taken 'the plunge', know. That freelancing is often *less* risky than simply having a job. As many of us freelance while trying to get our more 'product-y' stuff off the ground, this is good reminder that employment isn't necessarily a more secure environment in which to bootstrap.
 
 ### [3,111 email addresses and $15k](http://www.planningforaliens.com/blog/2014/01/08/sketching-with-css/)
 
@@ -38,3 +38,5 @@ As a bootstrapped company, with a great product, I'll be using them for any of m
 Sneaking into this issue, rather than last week because it's only just escaped from my Instapaper backlog. Some interesting real life experimentation from Kickoff Labs [@kickofflabs](http://twitter.com/kickofflabs). During 2013 they tested (two!) price increases, some lifecycle emails and experiments on free trials.
 
 --
+
+Until next time...
