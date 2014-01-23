@@ -1,0 +1,32 @@
+---
+title: 'Growth'
+layout: post
+---
+
+### [The 2 Biggest Mistakes I Made](https://www.wisecashhq.com/blog/the-2-biggest-mistakes-i-made-before-reaching-500-mrr)
+
+Thibaut Barree ([@thibaut_barrere](http://twitter.com/thibaut_barrere)) is at an early stage with the growth of WiseCash. So it's good to see him already analysing his behaviour (and in this case his mistakes). In short, it's the stuff you've heard over and over... Charge early! Build a list!
+
+But are you still ignoring it? Learn people.
+
+### [The biggest threat to your Bootstrapped Business](http://www.singlefounder.com/2014/01/15/the-biggest-threat-to-your-bootstrapped-business/)
+
+In this long post from Mike Taber ([@SingleFounder](http://twitter.com/SingleFounder)), a cofounder of MicroConf, warns of the danger of treading water. A long post for those a bit further along in the journey to product-hood, but good reminders about focussing on the *important* work of your business, and not the nonsense.
+
+### [Bootstrapping Woorank](http://blog.woorank.com/2014/01/bootstrapping-woorank/)
+
+A review from a team that initially tried to raise money in the traditional VC manner. A balanced post on the pros and cons of bootstrapping versus the 'traditional' VC-startup route.
+
+### [Pause](http://adii.me/pause/)
+
+Adii Pienaar ([@adii](http://twitter.com/adii)), ex of bootstrapped Wordpress theming marketplace, had been trying to build a new site, Public Beta (in fact, yours truly had chatted about working as a developer on the project).
+
+This post talks about pushing 'pause' and taking a step back and his struggles with focus and the 'new' mistakes he was making. From someone with such a strong, public, go-getting web 'personality' it's good to hear his struggles (in a supporting way not a schadenfrude way). It's all too easy to forget.
+
+### [5 Steps to 5k in Monthly Recurring Revenue](http://blog.statuspage.io/5-steps-to-5000-in-monthly-recurring-revenue)
+
+I'm very careful about including posts from VC-funded startups, not on a religious basis, but on a 'can bootstrappers learn from this' basis!
+
+This post from [statuspage.io](http://statuspage.io) makes it through my bullsh*t filter as it lays out it's steps from initial 'people with an idea' to proven business. And not in something you'd instinctively think was a feasible business... at least I didn't, until I signed up.
+
+The cynic in me wants to point out that going through Y-Combinator with 20-odd pre-selected customers as your cohort can't have hurt their initial testing and good Hacker News reception. Interesting advice though.
