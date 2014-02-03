@@ -17,7 +17,7 @@ Garrett ([@garrettdimon](http://twitter.com/garrettdimon)) talks through getting
 
 ### [Value is Created by Doing](http://blog.samaltman.com/value-is-created-by-doing)
 
-A plea for focus, from Sam Altman ([@samaltman](http://twitter.com/samaltman)). One of the reasons I'm doing this newsletter is to force me to focus my reading on useful content that is not only good for me, but that (hopefully) is useful to others.
+A plea for focus, from Sam Altman ([@sama](http://twitter.com/sama)). One of the reasons I'm doing this newsletter is to force me to focus my reading on useful content that is not only good for me, but that (hopefully) is useful to others.
 
 ### [Lessons Learned Starting Two Software Products](https://medium.com/on-startups/2bbb9b7379b9)
 
