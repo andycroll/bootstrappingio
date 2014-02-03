@@ -27,4 +27,4 @@ Matt ([@sdmattg](https://twitter.com/sdmattg)) & Joelle ([@joellesteiniger](http
 
 An interesting challenge between two consultants Josh Wayne ([@joshwayne](http://twitter.com/joshwayne)) & Brian Burkett ([@brianburkett](http://twitter.com/brianburkett)) to build my freedom into their work lives using products. I'll be keeping an eye on this one.
 
-They're already posting... [Choosing an audience](http://joshwayne.com/choosing-an-audience/) and [Scrstching the Itch](http://brianburkett.net/tfb-update-scratching-the-itch/).
+They're already posting... [Choosing an audience](http://joshwayne.com/choosing-an-audience/) and [Scratching the Itch](http://brianburkett.net/tfb-update-scratching-the-itch/).
