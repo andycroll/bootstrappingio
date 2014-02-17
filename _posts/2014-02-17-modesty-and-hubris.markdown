@@ -7,7 +7,7 @@ This week: on listening to advice, the initial hard ramp of a SaaS product, iOS 
 
 ### [Modesty & Hubris](http://sethgodin.typepad.com/seths_blog/2014/02/modesty-and-hubris.html)
 
-A great reminder, from Seth Godin ([@sethgodin](http://twitter.com/sethgodin)), of something that I believe about starting any sort of company.
+A great reminder, from Seth Godin ([@thisissethsblog](http://twitter.com/thisissethsblog)), of something that I believe about starting any sort of company.
 
 ### [Why I Turned Down $5 Million in VC Funding](http://www.groovehq.com/blog/turning-down-vc)
 
@@ -15,7 +15,7 @@ A great measured piece by Alex Turnbull ([@alexmturnbull](http://twitter.com/ale
 
 ### [The Road to SaaS Revenue is Painfully Slow](http://www.smallhq.com/blog/the-road-to-saas-revenue-is-painfully-slow-are-you-prepared-for-it/)
 
-Matt Goldman, ([@SDMattG](http://twitter.com/SDMattG), explains the difficulties of trying to make a SaaS product your 'first thing'.
+Matt Goldman, ([@SDMattG](http://twitter.com/SDMattG)), explains the difficulties of trying to make a SaaS product your 'first thing'.
 
 ### [Paid, Paymium or Freemium](http://dancounsell.com/articles/paid-paymium-or-freemium)
 
