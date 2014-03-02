@@ -3,11 +3,11 @@ title: "Ebook Launch Tactics"
 layout: post
 ---
 
-From this week's email you'll be able to tell that authors of Ebooks love to put dollar figures in their headlines. You might also learn some stuff about what it takes to build and audience and launch a book. Also required: a lot of writing!
+From this week's email you'll be able to tell that authors of Ebooks love to put dollar figures in their article headlines. You might also learn some stuff about what it takes to build and audience and launch a book. Also required: a lot of writing!
 
 ### [Understanding the Self-publishing Business](http://drt.fm/office-hours/derek-sivers/)
 
-I'm actually in New Zealand visiting Derek ([@sivers](http://twitter.com/sivers)) at the moment and he's been sharing the production process of his eBooks on doing business in Asia, Wood Egg.
+I'm actually in New Zealand visiting Derek Sivers ([@sivers](http://twitter.com/sivers)) at the moment and he's been sharing the production process of his eBooks on doing business in Asia, Wood Egg.
 
 ### [16k earned, 1000 copies sold](http://joshuaearl.com/selfpublishing/lessons-learned-from-a-year-as-a-self-published-author/)
 
@@ -29,6 +29,6 @@ Linda Liukas, ([@lindaliukas](http://twitter.com/lindaliukas)), recently had a (
 
 A subject close to my heart as a developer and recent father of twins... and as someone who's helped Linda put on one of her [Rails Girls](http://railsgirls.com) education events when I lived in Singapore.
 
-### [Should You Launch More Than Once?](http://nathanbarry.com/multiple-launches/)
+### [Should You Launch More Than Once? I've got $58,332 as Evidence](http://nathanbarry.com/multiple-launches/)
 
-Nathan Barry, ([@nathanbarry](http://twitter.com/nathanbarry)), talks through his new strategy of a pre-launch to a selected portion of his audience, followed by feedback and product improvement and then a full launch. As always Nathan is open with his figures and strategies.
+Nathan Barry ([@nathanbarry](http://twitter.com/nathanbarry)) talks through his new strategy of a pre-launch to a selected portion of his audience, followed by feedback and product improvement and then a full launch. As always Nathan is open with his figures and strategies.
