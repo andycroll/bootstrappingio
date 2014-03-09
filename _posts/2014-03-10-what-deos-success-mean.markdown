@@ -5,7 +5,7 @@ layout: post
 
 A more philosophical look at bootstrapping this week. We examine how bootstrapping is different to VC-backed 'startuping' and what it means for you to _make something_.
 
-### [Scenes From an Internet]https://the-pastry-box-project.net/cameron-koczon/2014-february-26
+### [Scenes From an Internet](https://the-pastry-box-project.net/cameron-koczon/2014-february-26)
 
 Cameron Koczon ([@fictivecameron](https://twitter.com/fictivecameron)) writes on The Pastry Box about the demonisation of VC... and points out that there's no need to. They're just aiming at something different from us bootstrappers.
 
