@@ -7,7 +7,7 @@ We're going to get into the design and marketing side of things this week.
 
 ### [Time to Wow! is the key to success](http://www.forentrepreneurs.com/time-to-wow/)
 
-Gail Goodman, the founder and CEO of Constant Contact for introduced [@BostonVC](http://twitter.com/BostonVC) to the concept of 'time to wow'.
+Gail Goodman, the founder and CEO of Constant Contact introduced [@BostonVC](http://twitter.com/BostonVC) to the concept of 'time to wow'.
 
 Basically how quickly can you make your new user feel awesome? The article is a little 'management consultant-y' but there's good stuff within.
 
