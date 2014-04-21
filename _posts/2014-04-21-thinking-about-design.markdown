@@ -21,7 +21,7 @@ Some great examples of the homepages of great SaaS companies that sell their pro
 
 It's very easy when building a nascent product to listen *too* intently to what your early users are telling you they want.
 
-[@joellesteiniger](http://twitter.com) lets us in on some of the design making process on HookFeed.
+[@joellesteiniger](http://twitter.com/joellesteiniger) lets us in on some of the design making process on HookFeed.
 
 
 ### [The Two Ways of Building](https://medium.com/the-year-of-the-looking-glass/ddc1587cb3f6)
