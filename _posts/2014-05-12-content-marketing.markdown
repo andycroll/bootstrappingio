@@ -3,9 +3,10 @@ title: 'Content Marketing'
 layout: post
 ---
 
-As a designer/developer I'm a terrible writer. Not in the sense of not being able to write coherently but in the sense of working out want I should be writing about. My sporadic [personal blog](http://andycroll.com) is testament to that!
+As a designer/developer I'm a terrible writer. Not in the sense of not being able to write coherently but in the sense of working out what I should be writing about. My sporadic [personal blog](http://andycroll.com) is testament to that!
 
-Here's a group of articles that run the gamut of using original writing to generate traffic for your products.
+Here's a group of articles that encompass using original writing to generate traffic for your products.
+
 
 ### [Content Marketing for bootstrappers - what should you write about?](http://rachelandrew.co.uk/archives/2014/01/24/content-marketing-for-bootstrappers-what-should-you-write-about/)
 
