@@ -28,7 +28,7 @@ Owner of podcast-based SaaS, [@derickbailey](http://twitter.com/derickbailey) ma
 
 ### [SaaS Pricing](https://training.kalzumeus.com/newsletters/archive/saas_pricing)
 
-The first headline in this typically epic [@kalzumeus](http://twitter.com/kalzumeus) article is 'Most SaaS Starts Out Underpriced' and gets better from there.
+The first headline in this typically epic [@patio11](http://twitter.com/patio11) article is 'Most SaaS Starts Out Underpriced' and gets better from there.
 
 
 ### [How To Propose Annual Contracts To Your SaaS Customers (Phone Scripts And Email Templates)](http://blog.close.io/selling-contracts-in-saas-how-to-successfully-pitch-pre-paid-and-annual-deals)
