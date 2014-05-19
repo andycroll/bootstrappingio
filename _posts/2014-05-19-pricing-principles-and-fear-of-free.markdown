@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pricing Principles & Free of Free'
+title: 'Pricing Principles & Fear of Free'
 ---
 
 Technically-inclined bootstrappers are terrible at pricing, certainly it's a weakness I often struggle to deal with. Here we collect some great advice on pricing from entrepreneurs who've been through it.
