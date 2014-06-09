@@ -1,0 +1,39 @@
+---
+title: 'Failure'
+layout: post
+---
+
+The VC-way is to 'fail fast' and try and spend your way to growth. It also easy to find the 'classic' startup story of struggle that turns into glorious success.
+
+In fact there are a couple of those in this email. People like to show their best side and tend not to enjoy writing about their worst times without the benefit of a positive current situation. I'd really like to hear proper, warts and all, tales of where things went wrong.
+
+I have a couple of my own that I'll reveal when the time is right.
+
+
+### [What I learned failing at 83%](https://medium.com/startup-lesson-learned/what-i-learned-failing-at-83-5fdf8be364ef)
+
+12 months, 6 businesses, 5 failures. [@thedannorris](http://twitter.com/thedannorris) details his multiple failures around the one thing that worked (WPCurve).
+
+
+### [Failing to Get Traction and (Almost) Giving up on the Road to My First $1,000 in Revenue](http://www.extendslogic.com/general/my-first-1k/)
+
+Again [@earthlingworks](https://twitter.com/earthlingworks) details the mistakes made on teh way to building a product that at least generates a sustainable amount of revenue.
+
+
+### [How I Earned My MBA in What Not To Do](http://jamesashcroftblog.com/2014/05/28/how-i-earned-my-mba-in-what-not-to-do/)
+
+A list of mistakes from [@JamesAshcroft](http://twitter.com/JamesAshcroft) that are all too familar to me from my time in and around early stage startups. Of course as a bootstrapper you're less able to make large purchases of stock, but it is still easy to head very quickly down a blind alley.
+
+His conclusions are great lessons for those on a tight budget.
+
+
+### [What Happens If You Succeed?](http://rachelandrew.co.uk/archives/2014/06/04/what-happens-if-you-succeed/)
+
+A different perspective from [@rachelandrew](http://twitter.com/rachelandrew). What if things go right? Are you setting yourself up for a venture you actually want to run?
+
+
+### [A Startup Post-mortem with a happy ending? ... in Thailand](http://fridriksson.tumblr.com/post/86584610871/a-startup-postmortem-with-a-happy-ending-in-thailand)
+
+I've done the sports app thing. It's tough to find a viable market. And while I'm suspicious of the optimism of this post, and of any effort to cash in on the amateur sport scene, the tale of refocssing when the chips are down is heartening.
+
+Good luck to [@tfridriksson](http://www.twitter.com/tfridriksson).
