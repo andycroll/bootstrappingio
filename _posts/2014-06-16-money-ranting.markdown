@@ -5,7 +5,7 @@ layout: post
 
 One of the things I found hardest as a founder of an early stage VC-funded startup was dealing with money. Not the mechanics, the morals and politics.
 
-I didn't like spending "other people's" money. I felt bad when experiments failed. And we at least had a business model where people gave us money for things, we weren't chasing _eyeballs_.
+I didn't like spending "other people's" money. I felt bad when experiments failed. And we, at least, had a business model where people gave us money for things. We weren't chasing _eyeballs_ like idiots.
 
 That's one of the reasons I'm _all in_ on bootstrapping/consulting for any of my own future business escapades.
 
@@ -19,7 +19,7 @@ Brilliant.
 
 ### [The Cost of VC Money: Loss of Control](http://blog.besnappy.com/2014/05/cost-vc-money-loss-control/)
 
-Here [@alyssa]() quizzes [@ian]() about VC-funding. He's pretty adamant.
+Here [@alyssamazzina](https://twitter.com/alyssamazzina) quizzes [@ianlandsman](https://twitter.com/ianlandsman) about VC-funding. He's pretty adamant.
 
 > When an investor writes you a check, you’re selling ownership of your company. Period.
 
@@ -28,7 +28,7 @@ There's also great links to other articles in here.
 
 ### [The Problem with Profitless Startups](http://nymag.com/daily/intelligencer/2014/04/problem-with-profitless-start-ups.html)
 
-An article from New York magazine, by [@kevinroose](http://twitter.com/kevinroose). Where the fallout for all of us from companies that may cease to exist because they don't have a business model.
+An article from New York magazine, by [@kevinroose](http://twitter.com/kevinroose), discussing the fallout for all of us from companies that may cease to exist because they don't have a business model.
 
 When you bootstrap, it kinda makes the 'having a way to make money' part of business, a bit more of a focus.
 
@@ -49,4 +49,4 @@ It's important that you don't get 'one foot caught in the endless hamster wheel 
 
 ### [RubyMotion Raises Millions...](http://blog.rubymotion.com/post/81380803900/rubymotion-raises-millions-becomes-free-introduces)
 
-Finally some lovely snark from [@lrz](http://twitter.com/lrz) who built a sustainable business serving developers looking to build native iOS (and now Android) apps but using a language and environment they love.
+Finally some lovely snark from [@lrz](http://twitter.com/lrz) who built a _sustainable_ business serving developers looking to build native iOS (and now Android) apps but using a language and environment they love.
