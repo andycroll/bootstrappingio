@@ -26,7 +26,7 @@ Here [@alexmturnbull](http://twitter.com/alexmturnbull) details the money spent 
 
 Firstly. Go buy [Indie Game: The Movie](http://www.indiegamethemovie.com) and watch it as a great story of small groups of people putting together amazing works of art (video games!) and trying to stay solvent.
 
-The movie itself was crowd-funded and this blog post is the last in a retrospective, here discussing the issue of notoriety.
+The movie itself was crowd-funded and this post, from [@indiegamemovie](http://twitter.com/indiegamemovie), is the last in a retrospective, here discussing the issue of notoriety.
 
 
 ### [How To Charge Money For Things That Don't Exist Yet](http://blog.close.io/how-to-charge-money-for-things-that-dont-exist-yet)
