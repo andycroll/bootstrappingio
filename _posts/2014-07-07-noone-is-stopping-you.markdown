@@ -30,11 +30,12 @@ Here Sarah from Basecamp reminds us that 'life is too short not to love what you
 
 ### [Consulting](http://mattgemmell.com/consulting/)
 
-A good first step to a business based on 'products' is to free up some time by increasing the amount of money you earn for your time. A good way to do that is to become a consultant.
+A good first step to a business based on 'products' is to free up some time by increasing the amount of money you earn for your time. A good way to do that is to become a consultant or 'go freelance'. Consultant sounds better though. :-)
 
 It frees time between engagements, although less than you'd think! It also generally means you can charge more for your time than in a regular job.
 
-As [@matgemmell](http://twitter.com/mattgemmell) lays out though, the professionalism required is a different set of skills all together.
+As [@mattgemmell](http://twitter.com/mattgemmell) lays out though, the professionalism required is a different set of skills all together.
+
 
 ### [Freelance as a Service](http://letsworkshop.com/freelance-as-a-service/)
 
