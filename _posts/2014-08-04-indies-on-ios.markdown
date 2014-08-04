@@ -34,7 +34,7 @@ Another, more positive, case study of 'owning a niche' from [@monkbent](http://t
 
 ### [App Store Pricing Models](https://medium.com/@stephenljohnson/app-store-pricing-models-e1194913a39a)
 
-This article predates this week's discussions by several months. [@stephenljohnson](http://twitter.comstephenljohnson) discusses the option of using freemium pricing on the App Store and the compromises and effort you have to make to get things to work.
+This article predates this week's discussions by several months. [@stephenljohnson](http://twitter.com/stephenljohnson) discusses the option of using freemium pricing on the App Store and the compromises and effort you have to make to get things to work.
 
 
 ### [App Store Realities](https://medium.com/@sorthman/app-store-realities-7b54af3f574e)
