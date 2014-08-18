@@ -1,4 +1,4 @@
 name: Bootstrapping IO
 markdown: redcarpet
-pygments: false
+highlighter: pygments
 exclude: ['config', 'config.ru', 'Gemfile', 'Gemfile.lock', 'Procfile', 'vendor']
