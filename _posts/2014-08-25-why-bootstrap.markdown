@@ -34,6 +34,6 @@ You have to be doing something right for [@jasonfried](http://twitter.com/jasonf
 
 ### [Let's, Like Demolish Laundry](http://nymag.com/news/features/laundry-apps-2014-5/)
 
-A long-form piece from the New Yorker (!) that should serve as a warning to avoid the various thought traps that having a 'disruptive' idea and VC funding can lead you into.
+A long-form piece from [@jpressler](http://twitter.com/jpressler) in New York Magazine that should serve as a warning to avoid the various thought traps that having a 'disruptive' idea and VC funding can lead you into.
 
 None of the companies featured in the story have any kind of solid foundation in what they are doing... all I took away from the article was various founding teams thrashing about as they burned other people's money.
