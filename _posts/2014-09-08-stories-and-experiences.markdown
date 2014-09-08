@@ -22,7 +22,7 @@ He also did it from the beaches of South East Asia. Like I said, _smart guy_.
 
 ### [5 things I’ve learned in 5 years of running a SaaS](http://mir.aculo.us/2013/11/27/5-things-ive-learned-in-5-years-of-running-a-saas/)
 
-Superb list from [thomasfuchs](http://twitter.com/thomasfuchs) full to the brim with pragmatic advice from someone who has really walked the bootstrapper-walk.
+Superb list from [@thomasfuchs](http://twitter.com/thomasfuchs) full to the brim with pragmatic advice from someone who has really walked the bootstrapper-walk.
 
 
 ### [How I build my minimum viable products](https://levels.io/how-i-build-my-minimum-viable-products/)
