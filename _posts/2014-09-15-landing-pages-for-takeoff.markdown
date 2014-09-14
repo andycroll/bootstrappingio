@@ -10,7 +10,7 @@ If you aren't using landing pages or you haven't looked at your own recently, it
 
 ### [How We Grew Conversions 100% by Rethinking Our Design Strategy](http://www.groovehq.com/blog/long-form-landing-page)
 
-Groove took an entirely different tack on their landing page and went copy first. There's also a great (further!) list of landing page resources form [@alexmturnbull](http://twitter.com/alexmturnbull) early in the post.
+Groove took an entirely different tack on their landing page and went copy first. There's also a great (further!) list of landing page resources from [@alexmturnbull](http://twitter.com/alexmturnbull) early in the post.
 
 
 ### [Building a Landing Page for Sales](http://spencerfry.com/building-a-landing-page-for-sales)
