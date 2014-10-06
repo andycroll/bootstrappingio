@@ -24,7 +24,7 @@ I do _sign_ NDAs but it's a massive negative sign if it's only there to protect 
 
 ### [Why? Who Cares? So What?](https://signalvnoise.com/posts/3392-humans-need-to-know-why#comment_77796)
 
-In sad news this week Kathy Sierra a bloody amazing writer and speaker on User Experience (wikipedia link) has been threatened and is gone again from the Internet.
+In sad news this week Kathy Sierra (a bloody amazing writer and speaker on User Experience - [wikipedia link](https://en.wikipedia.org/wiki/Kathy_Sierra)) has been threatened and is gone again from the Internet.
 
 Here I'm highlighting a comment on a Basecamp blog post... this framework is a great tool to properly examining your thought process. There was a fab diagram I saw on Twitter a week or so ago... but sadly it has gone along with her twitter account.
 
