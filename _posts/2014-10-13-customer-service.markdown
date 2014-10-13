@@ -18,7 +18,7 @@ One of the best things [@sivers](http://twitter.com/sivers) did when building CD
 Since he started Karma, [@daveofthefuture](http://twitter.com/daveofthefuture) made himself the main point of contact for all his customers. Here are six things that he learned in the two years he's been helping his customers out.
 
 
-### [](http://blog.besnappy.com/2014/08/best-email-support-tricks-tips/)
+### [My Best Email Support Tricks and Tips](http://blog.besnappy.com/2014/08/best-email-support-tricks-tips/)
 
 You'd expect the Snappy blog to be full of good support advice. Here [@chaseclemons](https://twitter.com/chaseclemons) of Basecamp lays out some useful techniques from his experience
 
