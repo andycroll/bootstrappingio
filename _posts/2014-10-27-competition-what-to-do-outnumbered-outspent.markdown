@@ -1,5 +1,5 @@
 ---
-title: 'Competition: What to do when you're outnumbered & outspent'
+title: "Competition: What to do when you're outnumbered & outspent"
 layout: post
 ---
 
