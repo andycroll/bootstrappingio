@@ -10,9 +10,9 @@ If you're anything like me, writing doesn't come naturally and it's easy to fall
 There's a mixture of tactics, process and wider thinking in this week's selection.
 
 
-### [Use Analytics to Find Blog Post Ideas](http://unbounce.com/content-marketing/use-analytics-to-find-blog-post-ideas/)
+### [Use Analytics to Find Blog Post Ideas](http://www.orbitmedia.com/blog/what-to-blog-about/)
 
-Analytics are a tremendous source of information for your business. Here Andy Crestodina from Unbounce goes through a process to use your tracking to drive the next things that you write.
+Analytics are a tremendous source of information for your business. Here Andy Crestodina from Orbit Media goes through a process to use your tracking to drive the next things that you write.
 
 
 ### [10 Ways We Come Up With 15+ Blog Post Ideas Each Week](https://www.groovehq.com/blog/blog-post-ideas)
