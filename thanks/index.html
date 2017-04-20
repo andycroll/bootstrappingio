@@ -4,10 +4,34 @@ title: 'Thanks For Joining'
 desc: 'Thanks for joining Bootstrapping.io!'
 ---
 
+<script>
+$(".my-content").sociallocker({
+	buttons: {
+		order: ["twitter-tweet"]
+	},
+	twitter: {
+		tweet: {
+			url: "http://bootstrapping.io/",
+			text: "Get a weekly email with links to articles, resources, videos, interviews, and products for #bootstrappers. (via @kaisdavis)"
+		}
+	},
+	text: {
+		header: "Share Bootstrapping.io",
+		message: "When you share, you'll Unlock Chris Wanstrath's 5-Minute Video Talk \"How to Bootstrap a Business\" -- or wait 60-seconds."
+	},
+	theme: "secrets",
+	locker: {
+		timer:60
+	}
+	});
+</script>
+
 <div class="row">
   <div class="col-sm-offset-1 col-sm-5 col-md-offset-2 col-md-4">
     <h1 class="h3">Thanks for subscribing!</h1>
-      <p>You're on the list! Thanks so much for joining. Check your inbox for a letter from me.</p>
-      <p>— Kai</p>
+      <div class="my-content">
+		<p>Here's that talk for you:</p>
+		<p><iframe width="640" height="360" src="https://www.youtube.com/embed/HlHl6ZD6wlg?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+      </div>
   </div>
 </div>
