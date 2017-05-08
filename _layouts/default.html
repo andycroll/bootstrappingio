@@ -33,13 +33,17 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 <script>
-    
+$(hide_stuff(){
+      $('.promo-2').hide();
+    }
+  });
+</script>
+<script>
     $(".opt-in-button").on("click", function () { 
       jQuery.cookie('subscriberCookie', 'subbed', { expires: 99999, path: '/' });
       // where a user subscribes from the form on your site
     });
     console.log( "Check if utm_source is a match" );
-    $('.promo-2').hide();
     if (location.href.match(/utm_source=bootstrapping.io-newsletter/)){ 
       // where you use url.com/?utm_source=kaisnewsletter from within your campaigns
       console.log( "Create cookie" );
@@ -61,16 +65,6 @@
     }
 </script>
 <!-- End Cookie Monster --> 
-
-<!-- Content Locker -->
-<script src="/js/libs/jquery.min.js"></script>
-<script src="/js/pandalocker.*.*.*.min.js"></script>
-<link rel="stylesheet" href="/css/pandalocker.*.*.*.min.css" />
-
-<script>
-$(".my-content").sociallocker();
-</script>
-<!-- End Content Locker -->
 
 </head>
 
