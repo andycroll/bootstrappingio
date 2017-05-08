@@ -33,6 +33,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 <script>
+    $('.promo-2').hide();
     $(".opt-in-button").on("click", function () { 
       jQuery.cookie('subscriberCookie', 'subbed', { expires: 99999, path: '/' });
       // where a user subscribes from the form on your site
@@ -45,7 +46,6 @@
       newSearch != location.search && window.history.replaceState({},'', location.href.replace(location.search, newSearch));
     }
     
-    $('.promo-2').hide();
     if ($.cookie('subscriberCookie')) {
       $('.promo-1').hide();
       $('.promo-2').show();
@@ -85,7 +85,7 @@ $(".my-content").sociallocker();
       <div class="navbar-collapse promo-2">
         <p class="navbar-text navbar-right hidden-xs">Thank you for being a subscriber! Would you share a tweet about Bootstrapping.io?</p>
         <a href="https://twitter.com/intent/tweet?text=Check%20out%20http%3A%2F%2Fbootstrapping.io%20—%20weekly%20roundup%20of%20the%20best%20articles%20for%20bootstrappers%20on%20starting%2C%20running%2C%20and%20growing%20your%20business%21&source=kaisdavis&related=kaisdavis" type="button" class="btn btn-xs btn-danger navbar-btn">
-          <span class="hidden-xs">Tweet</span>
+          <span class="hidden-xs">Tweet About Bootstrapping.io</span>
           <span class="visible-xs">Tweet About Bootstrapping.io</span>
         </a>
       </div>
