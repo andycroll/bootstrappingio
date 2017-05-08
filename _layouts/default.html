@@ -50,15 +50,15 @@
     console.log( "Check if cookie" );
     if ($.cookie('subscriberCookie')) {
       console.log( "Cookie found! Hiding promo-1, showing promo-2" );
-      $('#promo-1').addClass('hidden');
+      $("#promo-1").addClass("hidden");
       console.log( "Hide Promo 1");
-      $('#promo-2').removeClass('hidden');
+      $("#promo-2").removeClass("hidden");
       console.log( "Show Promo 2");
     } else {
       console.log( "Cookie not found! Showing promo-1, hiding promo-2" );
-      $('.promo-1').removeClass('hidden');
+      $(".promo-1").removeClass("hidden");
       console.log( "Show Promo 1");
-      $('.promo-2').addClass('hidden');
+      $(".promo-2").addClass("hidden");
       console.log( "Hide Promo 2");        
     }
 </script>
