@@ -33,12 +33,9 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 <script>
-$(hide_stuff(){
-      $('.promo-2').hide();
-    }
-  });
-</script>
-<script>
+    $(function_hide_stuff(){
+      $("promo-2").hide();
+    });
     $(".opt-in-button").on("click", function () { 
       jQuery.cookie('subscriberCookie', 'subbed', { expires: 99999, path: '/' });
       // where a user subscribes from the form on your site
@@ -56,18 +53,21 @@ $(hide_stuff(){
     console.log( "Check if cookie" );
     if ($.cookie('subscriberCookie')) {
       console.log( "Cookie found! Hiding promo-1, showing promo-2" );
-      $('.promo-1').hide();
+      $('#promo-1').addClass('hidden');
       console.log( "Hide Promo 1");
-      $('.promo-2').show();
+      $('#promo-2').removeClass('hidden');
       console.log( "Show Promo 2");
     } else {
       console.log( "Cookie not found! Showing promo-1, hiding promo-2" );
-      $('.promo-1').show();
+      $('.promo-1').removeClass('hidden');
       console.log( "Show Promo 1");
-      $('.promo-2').hide();
+      $('.promo-2').addClass('hidden');
       console.log( "Hide Promo 2");        
     }
 </script>
+<style>
+.hidden { display: none; }
+</style>
 <!-- End Cookie Monster --> 
 
 </head>
@@ -79,7 +79,7 @@ $(hide_stuff(){
       <div class="navbar-header">
         <a class="navbar-brand" href="/">{{ site.name }}</a>
       </div>
-      <div class="promo-1">
+      <div id="promo-1">
       <div class="navbar-collapse">
         <p class="navbar-text navbar-right hidden-xs">Weekly, no bullshit links for bootstrappers, focussed on building and marketing your products.</p>
         <a href="/" type="button" class="btn btn-xs btn-danger navbar-btn">
@@ -88,7 +88,7 @@ $(hide_stuff(){
         </a>
       </div>
       </div>
-      <div class="promo-2">
+      <div id="promo-2" class="hidden">
       <div class="navbar-collapse promo-2">
         <p class="navbar-text navbar-right hidden-xs">Thank you for being a subscriber! Would you share a tweet about Bootstrapping.io?</p>
         <a href="https://twitter.com/intent/tweet?text=Check%20out%20http%3A%2F%2Fbootstrapping.io%20—%20weekly%20roundup%20of%20the%20best%20articles%20for%20bootstrappers%20on%20starting%2C%20running%2C%20and%20growing%20your%20business%21&source=kaisdavis&related=kaisdavis" type="button" class="btn btn-xs btn-danger navbar-btn">
