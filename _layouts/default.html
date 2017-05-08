@@ -57,11 +57,15 @@ $(hide_stuff(){
     if ($.cookie('subscriberCookie')) {
       console.log( "Cookie found! Hiding promo-1, showing promo-2" );
       $('.promo-1').hide();
+      console.log( "Hide Promo 1");
       $('.promo-2').show();
+      console.log( "Show Promo 2");
     } else {
       console.log( "Cookie not found! Showing promo-1, hiding promo-2" );
       $('.promo-1').show();
-      $('.promo-2').hide();        
+      console.log( "Show Promo 1");
+      $('.promo-2').hide();
+      console.log( "Hide Promo 2");        
     }
 </script>
 <!-- End Cookie Monster --> 
