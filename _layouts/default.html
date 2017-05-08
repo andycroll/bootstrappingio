@@ -42,18 +42,23 @@
       jQuery.cookie('subscriberCookie', 'subbed', { expires: 99999, path: '/' });
       // where a user subscribes from the form on your site
     });
-
+    console.log( "Check if utm_source is a match" );
     if (location.href.match(/utm_source=bootstrapping.io-newsletter/)){ 
       // where you use url.com/?utm_source=kaisnewsletter from within your campaigns
+      console.log( "Create cookie" );
       jQuery.cookie('subscriberCookie', 'subbed', { expires: 99999 });
+      console.log( "Clear the UTM parameters" );
       var newSearch = location.search.replace(/utm_.*?(&|$)/g,""), newSearch = newSearch.length > 1 ? newSearch : "";
       newSearch != location.search && window.history.replaceState({},'', location.href.replace(location.search, newSearch));
     }
     
+    console.log( "Check it cookie" );
     if ($.cookie('subscriberCookie')) {
+      console.log( "Cookie found! Hiding promo-1, showing promo-2" );
       $('.promo-1').hide();
       $('.promo-2').show();
     } else {
+      console.log( "Cookie not found! Showing promo-1, hiding promo-2" );
       $('.promo-1').show();
       $('.promo-2').hide();        
     }
